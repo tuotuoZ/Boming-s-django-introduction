@@ -1,4 +1,4 @@
-#Week 1 report
+# Week 1 report
 This week I have followed the [official django tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from part
 1 to part 3. In part 2,I realized that some database knowledge is essitial for better understanding the web development. Learning database concept
 is in my next week to do list.
