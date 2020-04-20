@@ -19,7 +19,7 @@ python manage.py startapp polls
 
 
 ```
-####Summary
+#### Summary
 1. Create the project
 2. Create the app inside the project
 3. Create the view of your app
@@ -50,7 +50,7 @@ python manage.py createsuperuser
 
 ```
 
-####Summary
+#### Summary
 1. Confirm your database in project/setting.py file
 2. Set TIME_ZONE to match your time zone. e.g. 'US/Eastern'
 3. Allocate the space in the db for apps usign migrate command.
@@ -62,12 +62,12 @@ python manage.py createsuperuser
 9. Make your app modifiable in the admin by register the model in app/admin.py
 9. Change app data through admin site.
 
-###Part 3: Write views and raise a 404 error
+### Part 3: Write views and raise a 404 error
 #### Command cheatsheet
 ```shell script
 
 ```
-####Summary
+#### Summary
 1. Django has a more elegant way to handle URL patterns, using / to differenciate apps.(Compared to “ME2/Sites/dirmod.asp?sid=&type=gen&mod=Core+Pages&gid=A6CD4967199A42D9B65B1B”)
 2. Add more views in app/views.py
 3. Route those views in app/urls.py
